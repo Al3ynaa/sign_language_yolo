@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code ayarları
+.vscode/
+
+# YOLO çıktıları (büyükse kapatmak için – istersen yorum satırına alabilirsin)
+runs/
