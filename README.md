@@ -15,10 +15,10 @@ Real-time American Sign Language (A–Z) letter detection using a custom YOLO mo
 ## Model Results
 
 Training curves:
-![results](media/results.png)
+![results](https://github.com/Al3ynaa/sign_language_yolo/blob/master/media/confusion_matrix.png.png)
 
 Confusion matrix:
-![confusion](media/confusion_matrix.png)
+![confusion](https://github.com/Al3ynaa/sign_language_yolo/blob/master/media/confusion_matrix.png.png)
 
 
 ## Run
