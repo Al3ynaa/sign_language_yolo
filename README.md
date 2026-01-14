@@ -12,6 +12,14 @@ Real-time American Sign Language (A–Z) letter detection using a custom YOLO mo
 ## Dataset
 - ASL letters (A–Z)
 - Source: Roboflow
+## Model Results
+
+Training curves:
+![results](media/results.png)
+
+Confusion matrix:
+![confusion](media/confusion_matrix.png)
+
 
 ## Run
 ```bash
